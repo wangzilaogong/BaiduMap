@@ -1,0 +1,314 @@
+//===========================横向============= =======================
+//永嘉路（上接宁波路，向东过G205，到沭七路）10
+//      var plPath = [
+        [
+          new BMap.Point(118.819373,34.138256),
+          new BMap.Point(118.819031,34.133715),
+          new BMap.Point(118.826254,34.132833),
+          new BMap.Point(118.831715,34.132161),
+          new BMap.Point(118.842136,34.130891),
+          new BMap.Point(118.852089,34.129606),
+          new BMap.Point(118.856455,34.129083),
+          new BMap.Point(118.861988,34.128978),
+          new BMap.Point(118.874223,34.128829),
+          new BMap.Point(118.883098,34.128769),
+          new BMap.Point(118.883098,34.128769),
+          new BMap.Point(118.883098,34.128769)
+        ],
+//      ];
+//荣亿路（）11
+      var plPath = [
+        [
+          new BMap.Point(118.84439,34.124653),
+          new BMap.Point(118.851541,34.123756),
+          new BMap.Point(118.85614,34.123248),
+          new BMap.Point(118.86171,34.122979),
+          new BMap.Point(118.874214,34.12265),
+          new BMap.Point(118.882802,34.122471),
+          new BMap.Point(118.88273,34.122471),
+          new BMap.Point(118.88273,34.122471),
+          new BMap.Point(118.88273,34.122471)
+        ],
+      ];
+余杭路12
+
+      var plPath = [
+        [
+          new BMap.Point(118.832425,34.136718),
+          new BMap.Point(118.83167,34.132236),
+          new BMap.Point(118.830772,34.126379),
+          new BMap.Point(118.831024,34.122613),
+          new BMap.Point(118.840869,34.121388),
+          new BMap.Point(118.846906,34.120581),
+          new BMap.Point(118.851217,34.120073),
+          new BMap.Point(118.856032,34.119505),
+          new BMap.Point(118.86153,34.119266),
+          new BMap.Point(118.873855,34.118877),
+          new BMap.Point(118.882766,34.118788),
+          new BMap.Point(118.882766,34.118818),
+          new BMap.Point(118.882766,34.118818),
+          new BMap.Point(118.882766,34.118818)
+        ],
+      ];
+
+瑞安路13
+
+      var plPath = [
+        [
+          new BMap.Point(118.844319,34.116576),
+          new BMap.Point(118.846367,34.116337),
+          new BMap.Point(118.850858,34.115769),
+          new BMap.Point(118.85323,34.11547),
+          new BMap.Point(118.855817,34.115142),
+          new BMap.Point(118.861422,34.114962),
+          new BMap.Point(118.873388,34.114604),
+          new BMap.Point(118.882479,34.114394),
+          new BMap.Point(118.882479,34.114394),
+          new BMap.Point(118.882479,34.114394),
+          new BMap.Point(118.882479,34.114394)
+        ],
+      ];
+邦源路14
+      var plPath = [
+        [
+          new BMap.Point(118.838066,34.112601),
+          new BMap.Point(118.84572,34.111555),
+          new BMap.Point(118.850427,34.111017),
+          new BMap.Point(118.855673,34.110449),
+          new BMap.Point(118.861171,34.11024),
+          new BMap.Point(118.872813,34.109851),
+          new BMap.Point(118.882299,34.109612),
+          new BMap.Point(118.882299,34.109612),
+          new BMap.Point(118.882299,34.109612)
+        ],
+      ];
+台南路（友富路）15
+      var plPath = [
+        [
+          new BMap.Point(118.850113,34.107617),
+          new BMap.Point(118.855538,34.106959),
+          new BMap.Point(118.861108,34.10672),
+          new BMap.Point(118.866498,34.106481),
+          new BMap.Point(118.872642,34.106421),
+          new BMap.Point(118.882236,34.106242),
+          new BMap.Point(118.882236,34.106242),
+          new BMap.Point(118.8822,34.106272),
+          new BMap.Point(118.8822,34.106272),
+          new BMap.Point(118.8822,34.106272)
+        ],
+      ];
+规划道路（地图中没有）
+
+
+===========================纵向====================================（从右向左）
+沭七路16
+      var plPath = [
+        [
+          new BMap.Point(118.88414,34.155995),
+          new BMap.Point(118.883745,34.146495),
+          new BMap.Point(118.883314,34.134604),
+          new BMap.Point(118.883062,34.128807),
+          new BMap.Point(118.882703,34.118765),
+          new BMap.Point(118.882344,34.10959),
+          new BMap.Point(118.881733,34.094016),
+          new BMap.Point(118.881769,34.094076),
+          new BMap.Point(118.881769,34.094076),
+          new BMap.Point(118.881769,34.094076)
+        ],
+      ];
+
+205国道（宁波路--规划S326)17
+      var plPath = [
+        [
+          new BMap.Point(118.873756,34.134036),
+          new BMap.Point(118.874151,34.128807),
+          new BMap.Point(118.874259,34.12265),
+          new BMap.Point(118.873361,34.114581),
+          new BMap.Point(118.872786,34.109889),
+          new BMap.Point(118.872606,34.106451),
+          new BMap.Point(118.872462,34.09557),
+          new BMap.Point(118.872103,34.076585),
+          new BMap.Point(118.871888,34.071203),
+          new BMap.Point(118.871888,34.071203),
+          new BMap.Point(118.871888,34.071203)
+        ],
+      ];
+
+瑞声大道18
+      var plPath = [
+        [
+          new BMap.Point(118.862509,34.150573),
+          new BMap.Point(118.86215,34.133543),
+          new BMap.Point(118.861719,34.123054),
+          new BMap.Point(118.860856,34.101953),
+          new BMap.Point(118.860749,34.098634),
+          new BMap.Point(118.860749,34.098634),
+          new BMap.Point(118.860749,34.098634),
+          new BMap.Point(118.860749,34.098634)
+        ],
+      ];
+台北大道19
+      var plPath = [
+        [
+          new BMap.Point(118.852682,34.134066),
+          new BMap.Point(118.852071,34.129613),
+          new BMap.Point(118.851514,34.123756),
+          new BMap.Point(118.851173,34.12008),
+          new BMap.Point(118.850795,34.115807),
+          new BMap.Point(118.850364,34.111084),
+          new BMap.Point(118.849627,34.102461),
+          new BMap.Point(118.849627,34.102461),
+          new BMap.Point(118.849627,34.102461),
+          new BMap.Point(118.849627,34.102461)
+        ],
+      ];
+
+义乌路20
+      var plPath = [
+        [
+          new BMap.Point(118.842603,34.135298),
+          new BMap.Point(118.842136,34.130936),
+          new BMap.Point(118.841345,34.125004),
+          new BMap.Point(118.84104,34.122568),
+          new BMap.Point(118.840806,34.121328),
+          new BMap.Point(118.839656,34.117219),
+          new BMap.Point(118.838974,34.115201),
+          new BMap.Point(118.838147,34.113259),
+          new BMap.Point(118.838057,34.112571),
+          new BMap.Point(118.837446,34.108342),
+          new BMap.Point(118.837446,34.108342),
+          new BMap.Point(118.837446,34.108342)
+        ],
+      ];
+
+====================================京沪高速下侧====================
+沿着迎宾大道  （宿迁大道--瑞声大道）21
+      var plPath = [
+        [
+          new BMap.Point(118.82682,34.113655),
+          new BMap.Point(118.834473,34.10956),
+          new BMap.Point(118.841121,34.106242),
+          new BMap.Point(118.849493,34.102207),
+          new BMap.Point(118.856535,34.099875),
+          new BMap.Point(118.860883,34.09844),
+          new BMap.Point(118.860775,34.098829),
+          new BMap.Point(118.860775,34.098829),
+          new BMap.Point(118.860775,34.098829),
+          new BMap.Point(118.860775,34.098829)
+        ],
+      ];
+金华路（宿迁大道--江阴路）22
+        [
+          new BMap.Point(118.829227,34.112369),
+          new BMap.Point(118.822292,34.102296),
+          new BMap.Point(118.818304,34.096407),
+          new BMap.Point(118.812842,34.090518),
+          new BMap.Point(118.812842,34.090518),
+          new BMap.Point(118.812842,34.090518)
+        ],
+苏州东路（宿迁大道-高速）23
+        [
+          new BMap.Point(118.823334,34.109052),
+          new BMap.Point(118.830988,34.105764),
+          new BMap.Point(118.83627,34.103671),
+          new BMap.Point(118.83627,34.103671),
+          new BMap.Point(118.83627,34.103671)
+        ],
+天能路（金华路-)24
+        [
+          new BMap.Point(118.822364,34.102326),
+          new BMap.Point(118.834114,34.095152),
+          new BMap.Point(118.834114,34.095152),
+          new BMap.Point(118.834114,34.095152),
+          new BMap.Point(118.834114,34.095152)
+        ],
+杭州东路（宿迁大道--京沪高速）25
+        [
+          new BMap.Point(118.81489,34.097424),
+          new BMap.Point(118.830628,34.092162),
+          new BMap.Point(118.833072,34.091265),
+          new BMap.Point(118.835515,34.090548),
+          new BMap.Point(118.842055,34.091684),
+          new BMap.Point(118.842055,34.091684),
+          new BMap.Point(118.842055,34.091684),
+          new BMap.Point(118.842055,34.091684)
+        ],
+
+江阴路（宿迁大道---玉环路)26
+        [
+          new BMap.Point(118.812914,34.090578),
+          new BMap.Point(118.82028,34.088216),
+          new BMap.Point(118.824592,34.08687),
+          new BMap.Point(118.824592,34.08687),
+          new BMap.Point(118.824592,34.08687)
+        ],
+江阴路（宿迁大道-G205)27
+        [
+          new BMap.Point(118.808458,34.091684),
+          new BMap.Point(118.812842,34.090608),
+          new BMap.Point(118.820244,34.088335),
+          new BMap.Point(118.824915,34.08696),
+          new BMap.Point(118.834689,34.083671),
+          new BMap.Point(118.843672,34.079964),
+          new BMap.Point(118.848487,34.08116),
+          new BMap.Point(118.85208,34.082595),
+          new BMap.Point(118.854811,34.084628),
+          new BMap.Point(118.859985,34.084927),
+          new BMap.Point(118.872418,34.088754),
+          new BMap.Point(118.872418,34.088754),
+          new BMap.Point(118.872418,34.088754)
+        ],
+京沪高速第二水厂连接线 28
+        [
+          new BMap.Point(118.849996,34.081937),
+          new BMap.Point(118.848415,34.084389),
+          new BMap.Point(118.849277,34.084748),
+          new BMap.Point(118.849493,34.084509),
+          new BMap.Point(118.849493,34.084509),
+          new BMap.Point(118.849493,34.084509),
+          new BMap.Point(118.849493,34.084509)
+        ],
+长兴路（杭州东路-温州路-金华路）29
+        [
+          new BMap.Point(118.823801,34.094434),
+          new BMap.Point(118.82028,34.088186),
+          new BMap.Point(118.818447,34.083791),
+          new BMap.Point(118.808386,34.085854),
+          new BMap.Point(118.808386,34.085854),
+          new BMap.Point(118.808386,34.085854)
+        ],
+长兴路（京沪高速--向右折--玉环路）30
+
+        [
+          new BMap.Point(118.833611,34.110008),
+          new BMap.Point(118.831024,34.105853),
+          new BMap.Point(118.836234,34.103701),
+          new BMap.Point(118.83742,34.101011),
+          new BMap.Point(118.835371,34.095869),
+          new BMap.Point(118.831311,34.093986),
+          new BMap.Point(118.829874,34.092521),
+          new BMap.Point(118.829874,34.092521),
+          new BMap.Point(118.829874,34.092521)
+        ],
+赐富路（205国道左侧--沭七路）31
+       [
+          new BMap.Point(118.87319,34.144523),
+          new BMap.Point(118.883718,34.144494),
+          new BMap.Point(118.883718,34.144494),
+          new BMap.Point(118.883718,34.144494)
+        ],
+慈溪路（205国道--沭七路）32
+        [
+          new BMap.Point(118.873513,34.140281),
+          new BMap.Point(118.883503,34.140251),
+          new BMap.Point(118.883503,34.140251),
+          new BMap.Point(118.883503,34.140251)
+        ],
+宁波路（205国道--沭七路）33
+        [
+          new BMap.Point(118.873801,34.134185),
+          new BMap.Point(118.883287,34.134484),
+          new BMap.Point(118.883287,34.134484),
+          new BMap.Point(118.883287,34.134484)
+        ],
+
